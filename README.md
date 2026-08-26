@@ -17,6 +17,8 @@ not affiliated with any classic screensaver product.
 
 ## Quickstart
 
+[Download Marooned for macOS](https://github.com/zanderfain-star/marooned/raw/refs/heads/main/Marooned.dmg)
+
 Install from the Marooned app (**Install**, then **Enable as Screensaver**),
 or just watch it live: open the **Preview** window (⌘⌥P or Window menu).
 Press **S** to skip to the next vignette; use the list button (top-right
